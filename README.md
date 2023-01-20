@@ -7,7 +7,7 @@
 - JS
 
 ## In-Class Assignments
-- ICA1
+- [ICA1](https://jaskarnkahlon1.github.io/)
 - ICA2
 - ICA3
 - ICA4
@@ -24,7 +24,7 @@
 - ICA15
 
 ## Weekly Assignments
-- WA1
+- [WA1](https://jaskarnkahlon1.github.io/wa/wa1.html)
 - WA2
 - WA3
 - WA4
