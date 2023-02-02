@@ -2,7 +2,7 @@
 
 ## Projects
 
-- HTML
+- [HTML](Jaskarnkahlon1.github.io/html-midterm/)
 - CSS
 - JS
 
