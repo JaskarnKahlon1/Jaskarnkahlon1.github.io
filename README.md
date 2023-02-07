@@ -2,13 +2,13 @@
 
 ## Projects
 
-- [HTML](Jaskarnkahlon1.github.io/html-midterm/)
+- [HTML](Jaskarnkahlon1.github.io/html-midterm/page1.html)
 - CSS
 - JS
 
 ## In-Class Assignments
 - [ICA1](https://github.com/JaskarnKahlon1/Jaskarnkahlon1.github.io/blob/main/ica/Copy%20of%20ICA1%20--%20How%20to%20Search.pdf)
-- [ICA2](https://github.com/JaskarnKahlon1/Jaskarnkahlon1.github.io/blob/main/ica/Copy%20of%20ICA2%20--%20Exploring%20Directory%20Structures%20(Week%202).pdf)
+- [ICA2](https://jaskarnkahlon1.github.io/ica/ica2/Copy%20of%20ICA2%20--%20Exploring%20Directory%20Structures%20(Week%202).pdf)
 - [ICA3](https://github.com/JaskarnKahlon1/Jaskarnkahlon1.github.io/tree/main/ica/ica3)
 - ICA4
 - ICA5
