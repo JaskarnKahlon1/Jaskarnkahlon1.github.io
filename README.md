@@ -2,7 +2,7 @@
 
 ## Projects
 
-- [HTML](Jaskarnkahlon1.github.io/html-midterm/page1.html)
+- [HTML](https://jaskarnkahlon1.github.io/html-midterm/page1.html)
 - CSS
 - JS
 
