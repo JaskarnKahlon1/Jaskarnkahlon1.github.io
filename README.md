@@ -11,7 +11,7 @@
 - [ICA2](https://jaskarnkahlon1.github.io/ica/ica2/Copy%20of%20ICA2%20--%20Exploring%20Directory%20Structures%20(Week%202).pdf)
 - [ICA3](https://github.com/JaskarnKahlon1/Jaskarnkahlon1.github.io/tree/main/ica/ica3)
 - [ICA4](Jaskarnkahlon1.github.io/ica/ica4/ica4.html)
-- ICA5
+- [ICA5](Jaskarnkahlon1.github.io/ica/ica5/ica5.html)
 - ICA6
 - ICA7
 - ICA8
