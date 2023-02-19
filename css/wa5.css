@@ -1,0 +1,52 @@
+body, html {
+    /* height: 100%; */
+    padding: 0;
+    margin: 0;
+}
+
+
+#background{
+    min-width: 100%;
+    min-height: 100%;
+    /* position: relative; */
+}
+
+#overlay1 {
+    position:absolute;
+    top: 20px;
+    right: 20px;
+
+}
+#overlay1 img {
+    height: 140px;
+    width: 220px; 
+}
+
+#overlay2 {
+    position: absolute;
+    left: 50px;
+    bottom: 10px;
+}
+
+#overlay2 #box {
+    position: relative;
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    opacity: .6;
+}
+
+#overlay2 #text {
+    font-size: 32px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding-top:10px ;
+}
+#overlay2 #textunder {
+    font-size: 32px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding-top:10px ;
+    text-decoration: line-through;
+}
+
