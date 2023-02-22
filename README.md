@@ -12,7 +12,7 @@
 - [ICA3](https://github.com/JaskarnKahlon1/Jaskarnkahlon1.github.io/tree/main/ica/ica3)
 - [ICA4](Jaskarnkahlon1.github.io/ica/ica4/ica4.html)
 - [ICA5](Jaskarnkahlon1.github.io/ica/ica5/ica5.html)
-- ICA6
+- [ICA6](Jaskarnkahlon1.github.io/ica/ica6/ica6-part1.html)
 - ICA7
 - ICA8
 - ICA9
