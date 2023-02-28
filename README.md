@@ -13,7 +13,7 @@
 - [ICA4](Jaskarnkahlon1.github.io/ica/ica4/ica4.html)
 - [ICA5](Jaskarnkahlon1.github.io/ica/ica5/ica5.html)
 - [ICA6](Jaskarnkahlon1.github.io/ica/ica6/ica6-part1.html)
-- ICA7
+- [ICA7](Jaskarnkahlon1.github.io/ica/ica7/ica7.html)
 - ICA8
 - ICA9
 - ICA10
