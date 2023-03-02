@@ -1,0 +1,71 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:  rgb(203, 223, 189) ;
+    color: grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+nav{
+    height: 50vh;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height:20px;
+    background-color: rgb(241, 156, 121);
+}
+nav a{
+    width:10vw;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+}
+
+nav a:hover{
+    color: black;
+    transition-property: color;
+    transition-duration: 2s;
+}
+
+
+img{
+    width:30vw;
+    height: 40vh;
+
+}
+img:hover{
+    animation-name: slide;
+    position: relative;
+    animation-duration: 10s;
+    animation-iteration-count: 1;
+
+}
+
+@keyframes slide{
+    0%{right:0;top:0;}
+    100%{right:50vw;top:0;}
+}
+
+#red-ball{
+    background-color: rgb(164,74,63);
+    width: 20px;
+    height:20px;
+    border-radius: 50%;
+    position: absolute;
+    left:5vw;
+    top:0;
+    animation-name: ballmove;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+
+}
+
+
+
+@keyframes ballmove{
+    0%{background-color:white; left:0;top:0;}
+    25%{background-color:rgb(164,74,63);left:20vw;top:10vh;}
+    50%{background-color:white;left:10vw;top:20vh;}
+    75%{background-color:rgb(164,74,63);left:20vw;top:10vh;}
+    100%{background-color:white;left:0;top:0;}
+    }
