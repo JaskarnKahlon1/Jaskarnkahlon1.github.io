@@ -30,7 +30,7 @@
 - [WA4](https://jaskarnkahlon1.github.io/wa/wa4/index.html)
 - [WA5](https://jaskarnkahlon1.github.io/wa/wa5.html)
 - [WA6](https://jaskarnkahlon1.github.io/wa/wa6/index.html)
-- WA7
+- [WA7](Jaskarnkahlon1.github.io/wa/wa7/index.html)
 - WA8
 - WA9
 - WA10
