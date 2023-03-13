@@ -3,9 +3,23 @@ body {
     color: #333;
     margin: 0;
     /* font: 1.2em / 1.2 Arial, Helvetica, sans-serif; */
-    font-family: 'Albert Sans';font-size: 22px;
-  
+
+
+
 }
+p{
+  font-family: 'Albert Sans';font-size: 22px;
+}
+h1{
+  font-family: 'Alegreya SC';
+  font-size: 52px;
+}
+h2{
+  font-family: 'Alegreya SC';
+  font-size: 36px;
+}
+
+
 
 .pageContent{
     display: grid;
@@ -57,7 +71,10 @@ body {
     color: white;
     padding: 14px 20px;
     text-decoration: none;
-    text-align: center;
+    text-align: center;  
+    font-family: 'Alegreya SC';
+    font-size: 22px;
+
   }
   
   /* Change color on hover */
