@@ -8,7 +8,8 @@ body {
 
 }
 p{
-  font-family: 'Albert Sans';font-size: 22px;
+  font-family: 'Albert Sans';
+  /* font-size: 22px; */
 }
 h1{
   font-family: 'Alegreya SC';
@@ -17,6 +18,10 @@ h1{
 h2{
   font-family: 'Alegreya SC';
   font-size: 36px;
+}
+a{
+  font-family: 'Albert Sans';
+  font-size: 22px;
 }
 
 
