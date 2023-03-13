@@ -2,13 +2,14 @@ body {
     background-color: rgb(191,143,115);
     color: #333;
     margin: 0;
-    font: 1.2em / 1.2 Arial, Helvetica, sans-serif;
+    /* font: 1.2em / 1.2 Arial, Helvetica, sans-serif; */
 
 
 
 }
-/* p{
+p{
   font-family: 'Albert Sans';
+  /* font-size: 22px; */
 }
 h1{
   font-family: 'Alegreya SC';
@@ -21,7 +22,7 @@ h2{
 a{
   font-family: 'Albert Sans';
   font-size: 22px;
-} */
+}
 
 
 
@@ -76,8 +77,8 @@ a{
     padding: 14px 20px;
     text-decoration: none;
     text-align: center;  
-    /* font-family: 'Alegreya SC';
-    font-size: 22px; */
+    font-family: 'Alegreya SC';
+    font-size: 22px;
 
   }
   
