@@ -1,6 +1,132 @@
 body {
-    background-color: rgb(152, 193, 217);
+    background-color: rgb(191,143,115);
     color: #333;
     margin: 0;
     font: 1.2em / 1.2 Arial, Helvetica, sans-serif;
 }
+
+.pageContent{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.side {
+    flex: 30%;
+    padding: 20px;
+    
+  }
+.side img{
+/* background-color: #737272; */
+  width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;    
+}
+
+
+
+#textbox {
+    flex: 70%;
+    padding: 20px;
+    margin: auto;
+    width: 50%;
+    border: 1px solid;
+    margin-top: 10%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;    
+    /* box-shadow: 5px 10px #737272; */
+    background-color: rgb(249, 251, 255);
+    /* display: flex;
+    flex-direction: row; */
+    background-image: url('/img/kiwihug-zGZYQQVmXw0-unsplash.jpg');
+    
+}
+
+/* Style the top navigation bar */
+.navbar {
+    display: flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    /* background-color: rgb(249, 251, 255); */
+    background-color: #8C4227;
+    /* color: white; */
+  }
+  
+  /* Style the navigation bar links */
+  .navbar a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  /* Change color on hover */
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+.projects {
+    flex: 70%;
+    padding: 20px;
+    margin: auto;
+    width: 50%;
+    border: 1px solid;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    background-color: rgb(249, 251, 255);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;    
+    /* box-shadow: 5px 10px #737272; */
+
+    background-image: url('/img/kiwihug-zGZYQQVmXw0-unsplash.jpg');
+
+    
+}
+
+
+.projects a{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+.projects a:hover{
+    background-color: #737272;
+    color: white;
+}
+
+#pages {
+    padding: 10px;
+    margin: auto;
+    width: 100%;
+    border: 1px solid;
+    margin-top: 10%;
+    /* box-shadow: 5px 10px #737272; */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;    
+    background-color: rgb(249, 251, 255);
+    background-image: url('/img/kiwihug-zGZYQQVmXw0-unsplash.jpg');
+
+}
+
+.welcomeMessage{
+    padding-top: 50px;
+    text-align: center;
+    color: #3a3b3c;
+}
+#pages a{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+
+#pages a:hover{
+    background-color: #737272;
+    color: white;
+}
+
+
+@media screen and (max-width: 700px) {
+    .pageContent, .navbar {   
+      flex-direction: column;
+      grid-template-columns: 1fr 1fr;
+      /* position: absolute; */
+      display: block;
+    }
+  }
