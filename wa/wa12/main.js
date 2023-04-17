@@ -10,6 +10,8 @@ let text = '{ "employees" : [' +
 '{ "firstName" : "Bill" , "department" : "HR" , "designation" : "Executive" , "salary" : 21200 , "raise eligible" : "false" } ]}';
 
 const obj = JSON.parse(text);
+console.log("problem 1");
+
 console.log(text);
 
 //problem 2
@@ -18,13 +20,15 @@ console.log(text);
 
 let company = '{ "company" : [' +
 '{ "companyName" : "Tech Stars" , "website" : "www.techstars.site" } ]}';
-
+console.log("problem 2");
 console.log(company);
 
 //problem 3
 // Anna, Tech, Executive, 25600, false
 
-obj["employees"][3] = { "firstName" : "Anna" , "department" : "Tech" , "designation" : "Executive" , "salary" : 25600 , "raise eligible" : "false"}
+obj["employees"][3] = { "firstName" : "Anna" , "department" : "Tech" , "designation" : "Executive" , "salary" : 25600 , "raise eligible" : "false"};
+console.log("problem 3");
+
 console.log(obj ["employees"][3]);
 
 //problem 4 
@@ -36,6 +40,8 @@ for(let i = 0; i < 4; i++) {
     totSalary += obj ["employees"][i]["salary"];
     // console.log(totSalary);
 }
+console.log("problem 4");
+
 console.log(totSalary);
 
 //problem 5
@@ -43,6 +49,8 @@ console.log(totSalary);
 // Given the JSON of the company and its employees, write a function to update the salary for each employee who is raised eligible, 
 // then set their eligibility to false.
 let newSal = 0;
+console.log("problem 5");
+
 for(let i = 0; i < 4; i++) {
     if( obj ["employees"][i]["raise eligible"] === "true"){
         console.log( obj ["employees"][i]["salary"]);
@@ -56,33 +64,35 @@ for(let i = 0; i < 4; i++) {
 }
 
 //problem 6
-// Working from home: ['Anna', 'Sam']
-const companyObj = JSON.parse(company);
+console.log("got stuck on problem 6, did not complete fully");
 
-companyObj["employees"] = obj["employees"];
-console.log(companyObj);
-companyObj["wfh"];
+// Working from home: ['Anna', 'Sam']
+// const companyObj = JSON.parse(company);
+
+// companyObj["employees"] = obj["employees"];
+// console.log(companyObj);
+// companyObj["wfh"];
 // for(let i = 0; i < 4; i++) {
 //     companyObj["employees"][i]["wfh"] = false;
 // }
 
-for(let i = 0; i < 4; i++) {
-    // console.log(companyObj["employees"][i]["wfh"]);
-    console.log(["employees"][i]["firstName"]);
-    console.log(["employees"][i]["wfh"]);
-    if(companyObj ["employees"][i]["firstname"] === "Sam"){
-        companyObj["employees"][i]["wfh"] = true;
-        console.log(["employees"][i]["firstName"]);
-        console.log(["employees"][i]["wfh"]);
-    }
-    // else if(companyObj ["employees"][i]["firstname"] === "Sam"){
-    //     companyObj ["employees"][i]["wfh"] = true;
-    //     console.log(companyObj["employees"][i]["firstname"]);
-    //     console.log(companyObj["employees"][i]["wfh"]);
-    // } else {
-    //     companyObj ["employees"][i]["wfh"] = false;
-    //     console.log(companyObj["employees"][i]["firstname"]);
-    //     console.log(companyObj["employees"][i]["wfh"]);
+// for(let i = 0; i < 4; i++) {
+//     // console.log(companyObj["employees"][i]["wfh"]);
+//     console.log(["employees"][i]["firstName"]);
+//     console.log(["employees"][i]["wfh"]);
+//     if(companyObj ["employees"][i]["firstname"] === "Sam"){
+//         companyObj["employees"][i]["wfh"] = true;
+//         console.log(["employees"][i]["firstName"]);
+//         console.log(["employees"][i]["wfh"]);
+//     }
+//     // else if(companyObj ["employees"][i]["firstname"] === "Sam"){
+//     //     companyObj ["employees"][i]["wfh"] = true;
+//     //     console.log(companyObj["employees"][i]["firstname"]);
+//     //     console.log(companyObj["employees"][i]["wfh"]);
+//     // } else {
+//     //     companyObj ["employees"][i]["wfh"] = false;
+//     //     console.log(companyObj["employees"][i]["firstname"]);
+//     //     console.log(companyObj["employees"][i]["wfh"]);
 
-    // }
-}
+//     // }
+// }
