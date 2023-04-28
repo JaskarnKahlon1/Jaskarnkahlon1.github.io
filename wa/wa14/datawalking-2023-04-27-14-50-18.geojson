@@ -1,0 +1,1525 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 1,
+        "iso-date": "2023-04-27",
+        "time": "14:45:44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27015667192697,
+          40.007972983533065,
+          1646.2918296167627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 1,
+        "iso-date": "2023-04-27",
+        "time": "14:45:51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27015937783368,
+          40.00798076462979,
+          1646.3115102220327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 2,
+        "iso-date": "2023-04-27",
+        "time": "14:45:53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27015937783368,
+          40.00798076462979,
+          1646.3115102220327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 3,
+        "iso-date": "2023-04-27",
+        "time": "14:45:55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27015937783368,
+          40.00798076462979,
+          1646.3115102220327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 4,
+        "iso-date": "2023-04-27",
+        "time": "14:45:56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27015937783368,
+          40.00798076462979,
+          1646.3115102220327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 2,
+        "iso-date": "2023-04-27",
+        "time": "14:46:02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.26986758627403,
+          40.00798176405572,
+          1652.72021484375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 5,
+        "iso-date": "2023-04-27",
+        "time": "14:46:04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.26984480110433,
+          40.00793357986377,
+          1633.3888909358202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 3,
+        "iso-date": "2023-04-27",
+        "time": "14:46:06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.26979126622054,
+          40.007932573223066,
+          1646.2733412428086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 6,
+        "iso-date": "2023-04-27",
+        "time": "14:46:08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.26978527312575,
+          40.00792829178979,
+          1646.3904726092355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 7,
+        "iso-date": "2023-04-27",
+        "time": "14:46:38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27032861967326,
+          40.007890096196405,
+          1646.6188520304859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 8,
+        "iso-date": "2023-04-27",
+        "time": "14:46:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27038104540293,
+          40.007891975621746,
+          1646.466205816716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 1,
+        "iso-date": "2023-04-27",
+        "time": "14:46:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27039589189418,
+          40.00788840470253,
+          1646.5743590528145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 4,
+        "iso-date": "2023-04-27",
+        "time": "14:46:46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27045744693747,
+          40.00788859034174,
+          1646.4699818035588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 5,
+        "iso-date": "2023-04-27",
+        "time": "14:46:47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27047487332878,
+          40.0078950997607,
+          1646.6399031262845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 9,
+        "iso-date": "2023-04-27",
+        "time": "14:46:51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27052223524313,
+          40.00789316273954,
+          1646.7660492789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 10,
+        "iso-date": "2023-04-27",
+        "time": "14:47:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2706578836776,
+          40.00788909464319,
+          1646.888576884754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 11,
+        "iso-date": "2023-04-27",
+        "time": "14:47:01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27067429526986,
+          40.007885558522254,
+          1647.193576616235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 12,
+        "iso-date": "2023-04-27",
+        "time": "14:47:02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2706930493027,
+          40.007879019128964,
+          1647.1122827967629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 13,
+        "iso-date": "2023-04-27",
+        "time": "14:47:03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27070744758105,
+          40.007876378121885,
+          1646.5971977543086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 14,
+        "iso-date": "2023-04-27",
+        "time": "14:47:11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27082745800602,
+          40.007874927012445,
+          1646.3104340489954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 15,
+        "iso-date": "2023-04-27",
+        "time": "14:47:18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27094615964499,
+          40.007906172090316,
+          1646.4459313405678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 16,
+        "iso-date": "2023-04-27",
+        "time": "14:47:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27095870906894,
+          40.00790256785411,
+          1646.5285156555474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 17,
+        "iso-date": "2023-04-27",
+        "time": "14:47:22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27101207206279,
+          40.0079008543263,
+          1646.665738850832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 2,
+        "iso-date": "2023-04-27",
+        "time": "14:47:27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27109719886117,
+          40.0078902375846,
+          1647.6347369654104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 3,
+        "iso-date": "2023-04-27",
+        "time": "14:47:28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27111758925366,
+          40.00789549606102,
+          1647.2375265583396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 4,
+        "iso-date": "2023-04-27",
+        "time": "14:47:29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27112635584157,
+          40.00791005274661,
+          1647.160448343493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 18,
+        "iso-date": "2023-04-27",
+        "time": "14:47:32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27114141101111,
+          40.00793432443595,
+          1647.3612532084808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 19,
+        "iso-date": "2023-04-27",
+        "time": "14:47:34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27116419301105,
+          40.00795747047378,
+          1647.2436757311225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 5,
+        "iso-date": "2023-04-27",
+        "time": "14:47:37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27119565891384,
+          40.00797985687742,
+          1647.0801678327844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 6,
+        "iso-date": "2023-04-27",
+        "time": "14:47:38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27120161028007,
+          40.0079848026812,
+          1647.3468173248693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 7,
+        "iso-date": "2023-04-27",
+        "time": "14:47:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27121327865542,
+          40.00799259674412,
+          1647.4579472811893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 8,
+        "iso-date": "2023-04-27",
+        "time": "14:47:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27121327865542,
+          40.00799259674412,
+          1647.4579472811893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 20,
+        "iso-date": "2023-04-27",
+        "time": "14:47:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27123877963473,
+          40.00802089404043,
+          1647.4615656593814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 9,
+        "iso-date": "2023-04-27",
+        "time": "14:47:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27127177293045,
+          40.008046295818126,
+          1648.613036812283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 10,
+        "iso-date": "2023-04-27",
+        "time": "14:47:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27127177293045,
+          40.008046295818126,
+          1648.613036812283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 21,
+        "iso-date": "2023-04-27",
+        "time": "14:47:47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2712816862636,
+          40.00806284799788,
+          1650.0233210790902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 6,
+        "iso-date": "2023-04-27",
+        "time": "14:47:49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27128239396757,
+          40.008087688829455,
+          1651.1336630228907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 7,
+        "iso-date": "2023-04-27",
+        "time": "14:47:49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27128239396757,
+          40.008087688829455,
+          1651.1336630228907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 8,
+        "iso-date": "2023-04-27",
+        "time": "14:47:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27128652175277,
+          40.00809741297752,
+          1650.9932968178764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 22,
+        "iso-date": "2023-04-27",
+        "time": "14:47:51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27129424890722,
+          40.00811028670472,
+          1651.2343508535996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 11,
+        "iso-date": "2023-04-27",
+        "time": "14:47:55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27128695866776,
+          40.00816019137894,
+          1650.1234453190118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 23,
+        "iso-date": "2023-04-27",
+        "time": "14:47:58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27129793348178,
+          40.008197116685366,
+          1649.8850184753537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 9,
+        "iso-date": "2023-04-27",
+        "time": "14:48:11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27139294982261,
+          40.00835133803915,
+          1646.7901299856603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 10,
+        "iso-date": "2023-04-27",
+        "time": "14:48:12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27142550657314,
+          40.008358386414486,
+          1646.7256423402578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 11,
+        "iso-date": "2023-04-27",
+        "time": "14:48:13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.271443421886,
+          40.00836002674817,
+          1646.8435975397006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 24,
+        "iso-date": "2023-04-27",
+        "time": "14:48:15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27146305003536,
+          40.008361243006206,
+          1646.9075137311593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 12,
+        "iso-date": "2023-04-27",
+        "time": "14:48:20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2715735728707,
+          40.00837319610697,
+          1647.1860051490366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 13,
+        "iso-date": "2023-04-27",
+        "time": "14:48:34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2718161416147,
+          40.00836690315725,
+          1649.4925488987938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 14,
+        "iso-date": "2023-04-27",
+        "time": "14:48:35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2718161416147,
+          40.00836690315725,
+          1649.4925488987938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 15,
+        "iso-date": "2023-04-27",
+        "time": "14:48:36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27183571344025,
+          40.0083650662398,
+          1649.1663131238893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 25,
+        "iso-date": "2023-04-27",
+        "time": "14:48:36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27185767188902,
+          40.00836343246267,
+          1649.4987821280956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 26,
+        "iso-date": "2023-04-27",
+        "time": "14:48:57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27224072836026,
+          40.0083762870971,
+          1648.3020540485159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 27,
+        "iso-date": "2023-04-27",
+        "time": "14:49:02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2723311088732,
+          40.00836578504378,
+          1649.8044129051268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 28,
+        "iso-date": "2023-04-27",
+        "time": "14:49:14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27236757322656,
+          40.00821217017273,
+          1650.0553759019822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 29,
+        "iso-date": "2023-04-27",
+        "time": "14:49:14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27236757322656,
+          40.00821217017273,
+          1650.0553759019822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 12,
+        "iso-date": "2023-04-27",
+        "time": "14:49:16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27236365480829,
+          40.008180201532284,
+          1650.2515071891248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 13,
+        "iso-date": "2023-04-27",
+        "time": "14:49:18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27235823885069,
+          40.00815245299654,
+          1650.4875647742301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 14,
+        "iso-date": "2023-04-27",
+        "time": "14:49:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27236085861159,
+          40.008137936430096,
+          1650.4378452664241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 15,
+        "iso-date": "2023-04-27",
+        "time": "14:49:21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2723582247363,
+          40.00811018150464,
+          1650.7021822873503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 30,
+        "iso-date": "2023-04-27",
+        "time": "14:49:23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27235719463836,
+          40.008094304130985,
+          1650.3756155306473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 31,
+        "iso-date": "2023-04-27",
+        "time": "14:49:27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27233896373147,
+          40.00803817896277,
+          1650.367673820816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 32,
+        "iso-date": "2023-04-27",
+        "time": "14:49:28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27233896373147,
+          40.00803817896277,
+          1650.367673820816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 16,
+        "iso-date": "2023-04-27",
+        "time": "14:49:29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2723330080991,
+          40.008025206491254,
+          1650.0933493394405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 17,
+        "iso-date": "2023-04-27",
+        "time": "14:49:29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2723330080991,
+          40.008025206491254,
+          1650.0933493394405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 18,
+        "iso-date": "2023-04-27",
+        "time": "14:49:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2723330080991,
+          40.008025206491254,
+          1650.0933493394405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 19,
+        "iso-date": "2023-04-27",
+        "time": "14:49:31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2723330080991,
+          40.008025206491254,
+          1650.0933493394405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 20,
+        "iso-date": "2023-04-27",
+        "time": "14:49:31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2723330080991,
+          40.008025206491254,
+          1650.0933493394405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 68,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 16,
+        "iso-date": "2023-04-27",
+        "time": "14:49:36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2723330080991,
+          40.008025206491254,
+          1650.0933493394405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 17,
+        "iso-date": "2023-04-27",
+        "time": "14:49:37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2723330080991,
+          40.008025206491254,
+          1650.0933493394405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 18,
+        "iso-date": "2023-04-27",
+        "time": "14:49:38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2723330080991,
+          40.008025206491254,
+          1650.0933493394405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 19,
+        "iso-date": "2023-04-27",
+        "time": "14:49:53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27211848526403,
+          40.00783215078907,
+          1659.454833984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "button_id": 1,
+        "button_label": "Bush",
+        "count": 20,
+        "iso-date": "2023-04-27",
+        "time": "14:49:54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27211848526403,
+          40.00783215078907,
+          1659.454833984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 33,
+        "iso-date": "2023-04-27",
+        "time": "14:49:57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27218470563783,
+          40.00780708640454,
+          1659.5032958984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 34,
+        "iso-date": "2023-04-27",
+        "time": "14:50:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27218470563783,
+          40.00780708640454,
+          1659.5032958984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 21,
+        "iso-date": "2023-04-27",
+        "time": "14:50:02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27212098782682,
+          40.007628690406904,
+          1659.5052490234375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "button_id": 2,
+        "button_label": "Flower",
+        "count": 22,
+        "iso-date": "2023-04-27",
+        "time": "14:50:03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27212098782682,
+          40.007628690406904,
+          1659.5052490234375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 77,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 35,
+        "iso-date": "2023-04-27",
+        "time": "14:50:05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27212098782682,
+          40.007628690406904,
+          1659.5052490234375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 78,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 36,
+        "iso-date": "2023-04-27",
+        "time": "14:50:07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27205686300955,
+          40.0074668798587,
+          1659.50537109375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 79,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 37,
+        "iso-date": "2023-04-27",
+        "time": "14:50:17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27197748906227,
+          40.007354544295154,
+          1659.50537109375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80,
+        "button_id": 0,
+        "button_label": "Tree",
+        "count": 38,
+        "iso-date": "2023-04-27",
+        "time": "14:50:18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27197748906227,
+          40.007354544295154,
+          1659.50537109375
+        ]
+      }
+    }
+  ]
+}
