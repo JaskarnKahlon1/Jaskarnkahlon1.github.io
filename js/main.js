@@ -16,7 +16,7 @@ form.addEventListener("submit", e => {
         const feelsLike = data.main.feels_like;
         let tempF = (temp * 9/5) + 32;
         let feelsLikeF = (feelsLike * 9/5) + 32;
-        result.innerHTML = `Current weather in ${city}: ${description}, <br> Temperature: ${tempF.toFixed(2)} degrees, <br> Feels like: ${feelsLikeF.toFixed(2)} degrees`;
+        result.innerHTML = `Current weather in ${city}: ${description}, <br> Temperature: ${tempF.toFixed(2)} °F, <br> Feels like: ${feelsLikeF.toFixed(2)} °F`;
         console.log(tempF);
     })
     .catch(error => console.error(error));
