@@ -1,0 +1,89 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+h1{
+    font-size: 48px;
+    margin-bottom: 30px;  
+}
+
+form{
+    display: flex;
+    margin-bottom: 30px;  
+}
+/* Add a background color to the body */
+body {
+    background-color: #3498db;
+    
+  }
+  
+  /* Center the weather app in the middle of the screen */
+  .container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    animation: slide-in 1s ease-out;
+  }
+  @keyframes slide-in {
+    from {
+        top: -100%;
+    }
+    to {
+        top: 50%;
+    }
+  }
+
+  input {
+    border-radius: 5px;
+    border:none;
+    padding: 10px;
+    width: 200px;
+    margin-right: 10px;
+    font-size: 16px;
+  }
+
+  #result{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    animation: fade-in 0.5s ease-out;
+  }
+
+  @keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+  }
+  /* animations */
+  .clouds{
+    height: 450px;
+    width: 1200px;
+    background-image: url("cloud2.png");
+    background-repeat: repeat-x;
+    animation: cloudMove 20s linear infinite;
+
+  }
+
+  @keyframes cloudMove {
+    0% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(100%);
+
+    }
+  }
+
+  
