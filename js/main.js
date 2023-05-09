@@ -18,7 +18,19 @@ form.addEventListener("submit", e => {
         let feelsLikeF = (feelsLike * 9/5) + 32;
         result.innerHTML = `Current weather in ${city}: ${description}, <br> Temperature: ${tempF.toFixed(2)} °F, <br> Feels like: ${feelsLikeF.toFixed(2)} °F`;
         console.log(tempF);
+        changeBackgroundColor(tempF);
     })
     .catch(error => console.error(error));
 
 });
+
+function changeBackgroundColor(tempF) {
+    const body = document.querySelector('body');
+    if(tempF > 60) {
+        body.style.backgroundColor = "#3498db";
+    } else if (tempF > 40 && tempF < 60){
+        body.style.backgroundColor = "rgb(249,195,100)";
+    } else {
+        body.style.backgroundColor = "rgb(173,209,235)";
+    }
+}
