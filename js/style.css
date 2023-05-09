@@ -14,12 +14,10 @@ form{
     display: flex;
     margin-bottom: 30px;  
 }
-/* Add a background color to the body */
 body {
     background-color: #3498db;
   }
   
-  /* Center the weather app in the middle of the screen */
   .container {
     position: absolute;
     top: 50%;
@@ -65,7 +63,6 @@ body {
         opacity: 1;
     }
   }
-  /* animations */
   .clouds{
     height: 450px;
     width: 1200px;
